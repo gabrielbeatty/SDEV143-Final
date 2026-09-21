@@ -1,0 +1,19 @@
+# 1. Operating system hidden files
+.DS_Store
+Thumbs.db
+
+# 2. Local text editor / IDE settings
+.vscode/
+.idea/
+
+# 3. Log files generated during runtime
+*.log
+
+# 4. Package manager dependencies (e.g., Node, Python, Godot imports)
+node_modules/
+__pycache__/
+.godot/
+
+# 5. Backup, swap, and temporary cache files
+*.tmp
+*.swp
