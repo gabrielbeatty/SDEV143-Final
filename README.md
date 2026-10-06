@@ -2,6 +2,4 @@
 
 This project is an encapsulation of the information learned in SDEV143 at Ivy Tech.
 
-# Project Update in Module 4
-
-These will be changed or deleted in future module. 
+Videos walk through all concepts learned in the course and will include a companion journal.
